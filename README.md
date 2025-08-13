@@ -4,12 +4,12 @@
 
 ## 動作確認手順
 
-このリポジトリをクローン  
-```bash
- git clone https://github.com/junrago/EmoCal.git
-cd EmoCal
-EmoCal.xcodeproj を Xcode で開く
+1. このリポジトリをクローン
+   ```bash
+   git clone https://github.com/junrago/EmoCal.git
+   cd EmoCal
+2. EmoCal.xcodeproj を Xcode で開く
 
-実行ターゲットを選び、iOSシミュレーターで起動
+3. 実行ターゲットを選び、iOSシミュレーターで起動
 
 Xcode上部の再生ボタン ▶ を押す
