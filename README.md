@@ -6,7 +6,7 @@
 
 1. このリポジトリをクローン
    ```bash
-   git clone https://github.com/junrago/EmoCal.git
+   git clone https://github.com/junrago/EmoCal
    cd EmoCal
 2. EmoCal.xcodeproj を Xcode で開く
 
